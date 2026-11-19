@@ -46,4 +46,4 @@ A simple data analysis project using Jupyter Notebook to explore global temeratu
 https://www.kaggle.com/datasets/sevgisarac/temperature-change/data
 
 ## Contact
-Email : panthita.dpl@gmail.com
+Email : panthita.dpl03@gmail.com
